@@ -1,0 +1,49 @@
+{
+  "model_name": "mobilenet_v2",
+  "num_classes": 26,
+  "class_names": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z"
+  ],
+  "image_size": 224,
+  "test_accuracy": 1.0,
+  "training_epochs": 20,
+  "best_val_acc": 0.9990384615384615,
+  "timestamp": "2026-05-07T07:33:31.356639",
+  "normalization": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  }
+}

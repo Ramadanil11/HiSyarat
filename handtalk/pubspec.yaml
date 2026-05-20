@@ -1,0 +1,70 @@
+name: handtalk
+description: "HandTalk - BISINDO Sign Language Communication App for Community Empowerment"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Database - SQLite
+  sqflite: ^2.4.2
+  path_provider: ^2.1.5
+  path: ^1.9.1
+
+  # Text-to-Speech
+  flutter_tts: ^4.2.0
+
+  # Camera - Real-time camera feed
+  camera: ^0.11.1
+
+  # Google ML Kit - Pose detection
+  google_mlkit_pose_detection: ^0.12.0
+
+  # AI Model Inference - TensorFlow Lite
+  tflite_flutter: ^0.11.0
+
+  # Permission handler
+  permission_handler: ^11.4.0
+
+  # State Management
+  provider: ^6.1.2
+
+  # Utilities
+  google_fonts: ^6.2.1
+  intl: ^0.20.2
+  uuid: ^4.5.1
+  crypto: ^3.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  windows:
+    generate: true
+  macos:
+    generate: true
+  web:
+    generate: true
+  image_path: "assets/images/logo.png"
+  adaptive_icon_background: "#2E7D6F"
+  adaptive_icon_foreground: "assets/images/logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/
+    - assets/images/
+    - assets/images/gestures/
+    - assets/models/

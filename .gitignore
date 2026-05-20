@@ -1,0 +1,40 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+*.local
+**/local.properties
+key.properties
+**/*.keystore
+**/*.jks
+
+# Logs and generated reports
+*.log
+
+# Flutter/Dart generated files
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+**/flutter/ephemeral/
+**/Flutter/ephemeral/
+
+# Packaged build outputs
+*.apk
+*.aab
+*.ipa

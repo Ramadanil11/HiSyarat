@@ -1,0 +1,195 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Alfabet",
+      "description": "Huruf A-Z dalam BISINDO menggunakan dua tangan",
+      "icon": "abc",
+      "color": "#2E7D6F"
+    },
+    {
+      "id": 2,
+      "name": "Angka",
+      "description": "Angka 0-9 dalam BISINDO",
+      "icon": "numbers",
+      "color": "#F9A825"
+    },
+    {
+      "id": 3,
+      "name": "Salam & Sapaan",
+      "description": "Kata-kata salam dan sapaan sehari-hari",
+      "icon": "waving_hand",
+      "color": "#FF7043"
+    },
+    {
+      "id": 4,
+      "name": "Keluarga",
+      "description": "Anggota keluarga dalam BISINDO",
+      "icon": "family_restroom",
+      "color": "#5C6BC0"
+    },
+    {
+      "id": 5,
+      "name": "Perasaan",
+      "description": "Ekspresi perasaan dan emosi",
+      "icon": "emoji_emotions",
+      "color": "#26A69A"
+    },
+    {
+      "id": 6,
+      "name": "Aktivitas",
+      "description": "Aktivitas sehari-hari",
+      "icon": "directions_run",
+      "color": "#EF5350"
+    },
+    {
+      "id": 7,
+      "name": "Tempat",
+      "description": "Nama-nama tempat umum",
+      "icon": "place",
+      "color": "#66BB6A"
+    },
+    {
+      "id": 8,
+      "name": "Waktu",
+      "description": "Keterangan waktu",
+      "icon": "schedule",
+      "color": "#AB47BC"
+    },
+    {
+      "id": 9,
+      "name": "Pertanyaan",
+      "description": "Kata tanya dalam BISINDO",
+      "icon": "help_outline",
+      "color": "#42A5F5"
+    },
+    {
+      "id": 10,
+      "name": "Darurat",
+      "description": "Kata-kata penting untuk situasi darurat",
+      "icon": "emergency",
+      "color": "#FF8A65"
+    }
+  ],
+  "vocabularies": [
+    {"id": 1, "word": "A", "bisindo_notation": "Tangan kiri membentuk huruf A (kepalan tangan, ibu jari di samping), tangan kanan menunjuk tangan kiri", "meaning": "Huruf A dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 2, "word": "B", "bisindo_notation": "Tangan kiri membentuk huruf B (empat jari tegak rapat, ibu jari dilipat ke telapak), tangan kanan menunjuk", "meaning": "Huruf B dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 3, "word": "C", "bisindo_notation": "Tangan kiri membentuk huruf C (jari-jari melengkung membentuk huruf C), tangan kanan menunjuk", "meaning": "Huruf C dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 4, "word": "D", "bisindo_notation": "Tangan kiri membentuk huruf D (telunjuk tegak, jari lain melingkar menyentuh ibu jari), tangan kanan menunjuk", "meaning": "Huruf D dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 5, "word": "E", "bisindo_notation": "Tangan kiri membentuk huruf E (jari-jari ditekuk ke telapak, ibu jari dilipat), tangan kanan menunjuk", "meaning": "Huruf E dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 6, "word": "F", "bisindo_notation": "Tangan kiri membentuk huruf F (telunjuk dan ibu jari membentuk lingkaran, tiga jari tegak), tangan kanan menunjuk", "meaning": "Huruf F dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 7, "word": "G", "bisindo_notation": "Tangan kiri membentuk huruf G (telunjuk menunjuk ke samping, ibu jari sejajar), tangan kanan menunjuk", "meaning": "Huruf G dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 8, "word": "H", "bisindo_notation": "Tangan kiri membentuk huruf H (telunjuk dan jari tengah tegak sejajar horizontal), tangan kanan menunjuk", "meaning": "Huruf H dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 9, "word": "I", "bisindo_notation": "Tangan kiri membentuk huruf I (kelingking tegak, jari lain mengepal), tangan kanan menunjuk", "meaning": "Huruf I dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 10, "word": "J", "bisindo_notation": "Tangan kiri membentuk huruf J (kelingking tegak lalu digerakkan melengkung ke bawah), tangan kanan menunjuk", "meaning": "Huruf J dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 11, "word": "K", "bisindo_notation": "Tangan kiri membentuk huruf K (telunjuk tegak, jari tengah miring, ibu jari di antara keduanya), tangan kanan menunjuk", "meaning": "Huruf K dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 12, "word": "L", "bisindo_notation": "Tangan kiri membentuk huruf L (telunjuk tegak, ibu jari ke samping membentuk sudut siku-siku), tangan kanan menunjuk", "meaning": "Huruf L dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 13, "word": "M", "bisindo_notation": "Tangan kiri membentuk huruf M (tiga jari menutupi ibu jari yang dilipat ke telapak), tangan kanan menunjuk", "meaning": "Huruf M dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 14, "word": "N", "bisindo_notation": "Tangan kiri membentuk huruf N (dua jari menutupi ibu jari yang dilipat ke telapak), tangan kanan menunjuk", "meaning": "Huruf N dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 15, "word": "O", "bisindo_notation": "Tangan kiri membentuk huruf O (semua jari melengkung membentuk lingkaran O), tangan kanan menunjuk", "meaning": "Huruf O dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 16, "word": "P", "bisindo_notation": "Tangan kiri membentuk huruf P (telunjuk menunjuk ke bawah, jari tengah ke depan, ibu jari di antara), tangan kanan menunjuk", "meaning": "Huruf P dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 17, "word": "Q", "bisindo_notation": "Tangan kiri membentuk huruf Q (ibu jari dan telunjuk menunjuk ke bawah), tangan kanan menunjuk", "meaning": "Huruf Q dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 18, "word": "R", "bisindo_notation": "Tangan kiri membentuk huruf R (telunjuk dan jari tengah menyilang), tangan kanan menunjuk", "meaning": "Huruf R dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 19, "word": "S", "bisindo_notation": "Tangan kiri membentuk huruf S (kepalan tangan, ibu jari di depan jari-jari), tangan kanan menunjuk", "meaning": "Huruf S dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 20, "word": "T", "bisindo_notation": "Tangan kiri membentuk huruf T (ibu jari diselipkan di antara telunjuk dan jari tengah), tangan kanan menunjuk", "meaning": "Huruf T dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 21, "word": "U", "bisindo_notation": "Tangan kiri membentuk huruf U (telunjuk dan jari tengah tegak rapat), tangan kanan menunjuk", "meaning": "Huruf U dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 22, "word": "V", "bisindo_notation": "Tangan kiri membentuk huruf V (telunjuk dan jari tengah tegak terbuka membentuk V), tangan kanan menunjuk", "meaning": "Huruf V dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 23, "word": "W", "bisindo_notation": "Tangan kiri membentuk huruf W (telunjuk, jari tengah, dan jari manis tegak terbuka), tangan kanan menunjuk", "meaning": "Huruf W dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 24, "word": "X", "bisindo_notation": "Tangan kiri membentuk huruf X (telunjuk ditekuk membentuk kait), tangan kanan menunjuk", "meaning": "Huruf X dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 25, "word": "Y", "bisindo_notation": "Tangan kiri membentuk huruf Y (ibu jari dan kelingking tegak, jari lain mengepal), tangan kanan menunjuk", "meaning": "Huruf Y dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+    {"id": 26, "word": "Z", "bisindo_notation": "Tangan kiri membentuk huruf Z (telunjuk menggambar huruf Z di udara), tangan kanan menunjuk", "meaning": "Huruf Z dalam alfabet BISINDO", "category_id": 1, "difficulty": "easy"},
+
+    {"id": 27, "word": "0", "bisindo_notation": "Tangan membentuk lingkaran O dengan ibu jari dan telunjuk", "meaning": "Angka nol", "category_id": 2, "difficulty": "easy"},
+    {"id": 28, "word": "1", "bisindo_notation": "Telunjuk tegak, jari lain mengepal", "meaning": "Angka satu", "category_id": 2, "difficulty": "easy"},
+    {"id": 29, "word": "2", "bisindo_notation": "Telunjuk dan jari tengah tegak terbuka (peace sign)", "meaning": "Angka dua", "category_id": 2, "difficulty": "easy"},
+    {"id": 30, "word": "3", "bisindo_notation": "Ibu jari, telunjuk, dan jari tengah tegak terbuka", "meaning": "Angka tiga", "category_id": 2, "difficulty": "easy"},
+    {"id": 31, "word": "4", "bisindo_notation": "Empat jari tegak terbuka (tanpa ibu jari)", "meaning": "Angka empat", "category_id": 2, "difficulty": "easy"},
+    {"id": 32, "word": "5", "bisindo_notation": "Semua lima jari terbuka lebar", "meaning": "Angka lima", "category_id": 2, "difficulty": "easy"},
+    {"id": 33, "word": "6", "bisindo_notation": "Ibu jari dan kelingking tegak, tiga jari tengah dilipat", "meaning": "Angka enam", "category_id": 2, "difficulty": "easy"},
+    {"id": 34, "word": "7", "bisindo_notation": "Ibu jari, kelingking, dan jari manis tegak, dua jari tengah dilipat", "meaning": "Angka tujuh", "category_id": 2, "difficulty": "easy"},
+    {"id": 35, "word": "8", "bisindo_notation": "Ibu jari, kelingking, jari manis, dan jari tengah tegak, telunjuk dilipat", "meaning": "Angka delapan", "category_id": 2, "difficulty": "easy"},
+    {"id": 36, "word": "9", "bisindo_notation": "Semua jari tegak kecuali ibu jari yang dilipat ke telapak", "meaning": "Angka sembilan", "category_id": 2, "difficulty": "easy"},
+
+    {"id": 37, "word": "Halo", "bisindo_notation": "Tangan kanan terangkat setinggi kepala, telapak menghadap depan, dilambaikan ke kiri-kanan", "meaning": "Sapaan umum", "category_id": 3, "difficulty": "easy"},
+    {"id": 38, "word": "Selamat Pagi", "bisindo_notation": "Isyarat 'selamat' (kedua tangan saling menepuk pelan di depan dada) + isyarat 'pagi' (tangan kanan bergerak naik dari bawah seperti matahari terbit)", "meaning": "Sapaan di pagi hari", "category_id": 3, "difficulty": "medium"},
+    {"id": 39, "word": "Terima Kasih", "bisindo_notation": "Tangan kanan menyentuh dagu/bibir lalu bergerak ke depan dan ke bawah dengan telapak menghadap atas", "meaning": "Ungkapan rasa terima kasih", "category_id": 3, "difficulty": "easy"},
+    {"id": 40, "word": "Maaf", "bisindo_notation": "Tangan kanan mengepal di depan dada, digerakkan memutar searah jarum jam", "meaning": "Ungkapan permintaan maaf", "category_id": 3, "difficulty": "easy"},
+    {"id": 41, "word": "Permisi", "bisindo_notation": "Kedua telapak tangan disatukan di depan dada (seperti berdoa) lalu sedikit membungkuk", "meaning": "Ungkapan permisi/izin", "category_id": 3, "difficulty": "easy"},
+
+    {"id": 42, "word": "Ayah", "bisindo_notation": "Ibu jari tangan kanan menyentuh dahi/kening lalu bergerak ke depan", "meaning": "Orang tua laki-laki", "category_id": 4, "difficulty": "easy"},
+    {"id": 43, "word": "Ibu", "bisindo_notation": "Ibu jari tangan kanan menyentuh pipi lalu bergerak ke depan", "meaning": "Orang tua perempuan", "category_id": 4, "difficulty": "easy"},
+    {"id": 44, "word": "Kakak", "bisindo_notation": "Tangan kanan dengan telunjuk tegak digerakkan ke atas di samping kepala", "meaning": "Saudara yang lebih tua", "category_id": 4, "difficulty": "easy"},
+    {"id": 45, "word": "Adik", "bisindo_notation": "Tangan kanan dengan telunjuk tegak digerakkan ke bawah di samping badan", "meaning": "Saudara yang lebih muda", "category_id": 4, "difficulty": "easy"},
+    {"id": 46, "word": "Keluarga", "bisindo_notation": "Kedua tangan membentuk huruf F lalu bergerak melingkar ke depan hingga kelingking bertemu", "meaning": "Kelompok keluarga", "category_id": 4, "difficulty": "medium"},
+
+    {"id": 47, "word": "Senang", "bisindo_notation": "Kedua telapak tangan di depan dada, digerakkan memutar bergantian ke atas (seperti menunjukkan kegembiraan)", "meaning": "Perasaan bahagia/gembira", "category_id": 5, "difficulty": "easy"},
+    {"id": 48, "word": "Sedih", "bisindo_notation": "Kedua tangan di depan wajah, jari-jari bergerak turun dari mata ke bawah (seperti air mata mengalir)", "meaning": "Perasaan sedih/duka", "category_id": 5, "difficulty": "easy"},
+    {"id": 49, "word": "Marah", "bisindo_notation": "Kedua tangan mengepal di depan dada, digerakkan gemetar ke atas dengan ekspresi wajah marah", "meaning": "Perasaan marah/kesal", "category_id": 5, "difficulty": "easy"},
+    {"id": 50, "word": "Takut", "bisindo_notation": "Kedua tangan terbuka di depan dada, digerakkan gemetar sambil mundur sedikit", "meaning": "Perasaan takut/khawatir", "category_id": 5, "difficulty": "easy"},
+    {"id": 51, "word": "Cinta", "bisindo_notation": "Kedua tangan menyilang di depan dada (memeluk diri sendiri)", "meaning": "Perasaan cinta/sayang", "category_id": 5, "difficulty": "easy"},
+
+    {"id": 52, "word": "Makan", "bisindo_notation": "Tangan kanan membentuk kerucut (jari-jari menyatu) digerakkan ke mulut berulang kali", "meaning": "Aktivitas makan", "category_id": 6, "difficulty": "easy"},
+    {"id": 53, "word": "Minum", "bisindo_notation": "Tangan kanan seperti memegang gelas, digerakkan ke mulut (seperti minum)", "meaning": "Aktivitas minum", "category_id": 6, "difficulty": "easy"},
+    {"id": 54, "word": "Tidur", "bisindo_notation": "Kedua telapak tangan disatukan di samping kepala yang dimiringkan (seperti bantal)", "meaning": "Aktivitas tidur/istirahat", "category_id": 6, "difficulty": "easy"},
+    {"id": 55, "word": "Belajar", "bisindo_notation": "Tangan kiri terbuka seperti buku, tangan kanan bergerak dari buku ke kepala berulang kali", "meaning": "Aktivitas belajar/studi", "category_id": 6, "difficulty": "medium"},
+    {"id": 56, "word": "Bekerja", "bisindo_notation": "Kedua tangan mengepal, digerakkan bergantian ke atas dan ke bawah (seperti memalu)", "meaning": "Aktivitas bekerja", "category_id": 6, "difficulty": "medium"},
+
+    {"id": 57, "word": "Rumah", "bisindo_notation": "Kedua tangan membentuk segitiga di atas kepala (seperti atap rumah)", "meaning": "Tempat tinggal", "category_id": 7, "difficulty": "easy"},
+    {"id": 58, "word": "Sekolah", "bisindo_notation": "Isyarat 'belajar' + isyarat 'rumah' (tempat belajar)", "meaning": "Tempat belajar/pendidikan", "category_id": 7, "difficulty": "medium"},
+    {"id": 59, "word": "Rumah Sakit", "bisindo_notation": "Isyarat 'rumah' + tangan kanan membentuk tanda plus (+) di lengan kiri atas", "meaning": "Tempat pelayanan kesehatan", "category_id": 7, "difficulty": "medium"},
+    {"id": 60, "word": "Kantor", "bisindo_notation": "Isyarat 'bekerja' + isyarat 'rumah' (tempat bekerja)", "meaning": "Tempat bekerja", "category_id": 7, "difficulty": "medium"},
+
+    {"id": 61, "word": "Hari Ini", "bisindo_notation": "Telunjuk kedua tangan menunjuk ke bawah bersamaan (menunjuk 'sekarang/sini')", "meaning": "Waktu hari ini", "category_id": 8, "difficulty": "easy"},
+    {"id": 62, "word": "Besok", "bisindo_notation": "Ibu jari tangan kanan di pipi, digerakkan ke depan (menunjuk ke masa depan)", "meaning": "Waktu esok hari", "category_id": 8, "difficulty": "easy"},
+    {"id": 63, "word": "Kemarin", "bisindo_notation": "Ibu jari tangan kanan di pipi, digerakkan ke belakang melewati bahu (menunjuk ke masa lalu)", "meaning": "Waktu kemarin", "category_id": 8, "difficulty": "easy"},
+
+    {"id": 64, "word": "Apa", "bisindo_notation": "Kedua tangan terbuka di depan dada, digerakkan ke kiri dan kanan bergantian dengan ekspresi bertanya", "meaning": "Kata tanya untuk benda/hal", "category_id": 9, "difficulty": "easy"},
+    {"id": 65, "word": "Siapa", "bisindo_notation": "Telunjuk tangan kanan menunjuk ke depan lalu digerakkan memutar kecil dengan ekspresi bertanya", "meaning": "Kata tanya untuk orang", "category_id": 9, "difficulty": "easy"},
+    {"id": 66, "word": "Dimana", "bisindo_notation": "Telunjuk tangan kanan menunjuk ke bawah lalu digerakkan ke kiri-kanan dengan ekspresi bertanya", "meaning": "Kata tanya untuk tempat", "category_id": 9, "difficulty": "easy"},
+    {"id": 67, "word": "Kenapa", "bisindo_notation": "Telunjuk menyentuh dahi lalu bergerak ke depan dengan ekspresi bertanya (menanyakan alasan)", "meaning": "Kata tanya untuk alasan", "category_id": 9, "difficulty": "medium"},
+
+    {"id": 68, "word": "Tolong", "bisindo_notation": "Tangan kanan terbuka menepuk dada kiri berulang kali dengan ekspresi memohon", "meaning": "Meminta bantuan", "category_id": 10, "difficulty": "easy"},
+    {"id": 69, "word": "Bahaya", "bisindo_notation": "Kedua tangan terbuka digerakkan menyilang di depan dada berulang kali (tanda larangan/bahaya)", "meaning": "Peringatan bahaya", "category_id": 10, "difficulty": "easy"},
+    {"id": 70, "word": "Sakit", "bisindo_notation": "Telunjuk kedua tangan saling menunjuk dan bergerak maju-mundur di depan bagian tubuh yang sakit", "meaning": "Kondisi sakit/tidak sehat", "category_id": 10, "difficulty": "easy"}
+  ],
+  "gestures": [
+    {"id": 1, "name": "Gestur A", "image_path": "assets/images/gestures/alphabet_a.png", "description": "Kepalan tangan dengan ibu jari di samping. Gunakan dua tangan dalam BISINDO.", "hand_type": "two_hand", "vocabulary_id": 1},
+    {"id": 2, "name": "Gestur B", "image_path": "assets/images/gestures/alphabet_b.png", "description": "Empat jari tegak rapat, ibu jari dilipat ke telapak tangan.", "hand_type": "two_hand", "vocabulary_id": 2},
+    {"id": 3, "name": "Gestur C", "image_path": "assets/images/gestures/alphabet_c.png", "description": "Jari-jari melengkung membentuk huruf C.", "hand_type": "two_hand", "vocabulary_id": 3},
+    {"id": 4, "name": "Gestur Halo", "image_path": "assets/images/gestures/greeting_halo.png", "description": "Tangan terangkat setinggi kepala, telapak menghadap depan, lambaikan.", "hand_type": "one_hand", "vocabulary_id": 37},
+    {"id": 5, "name": "Gestur Terima Kasih", "image_path": "assets/images/gestures/greeting_terimakasih.png", "description": "Sentuh dagu/bibir lalu gerakkan tangan ke depan dan bawah.", "hand_type": "one_hand", "vocabulary_id": 39},
+    {"id": 6, "name": "Gestur Maaf", "image_path": "assets/images/gestures/greeting_maaf.png", "description": "Tangan mengepal di depan dada, putar searah jarum jam.", "hand_type": "one_hand", "vocabulary_id": 40},
+    {"id": 7, "name": "Gestur Ayah", "image_path": "assets/images/gestures/family_ayah.png", "description": "Ibu jari menyentuh dahi lalu bergerak ke depan.", "hand_type": "one_hand", "vocabulary_id": 42},
+    {"id": 8, "name": "Gestur Ibu", "image_path": "assets/images/gestures/family_ibu.png", "description": "Ibu jari menyentuh pipi lalu bergerak ke depan.", "hand_type": "one_hand", "vocabulary_id": 43},
+    {"id": 9, "name": "Gestur Makan", "image_path": "assets/images/gestures/activity_makan.png", "description": "Jari-jari menyatu membentuk kerucut, gerakkan ke mulut berulang.", "hand_type": "one_hand", "vocabulary_id": 52},
+    {"id": 10, "name": "Gestur Minum", "image_path": "assets/images/gestures/activity_minum.png", "description": "Tangan seperti memegang gelas, gerakkan ke mulut.", "hand_type": "one_hand", "vocabulary_id": 53},
+    {"id": 11, "name": "Gestur Tidur", "image_path": "assets/images/gestures/activity_tidur.png", "description": "Kedua telapak tangan disatukan di samping kepala yang dimiringkan.", "hand_type": "two_hand", "vocabulary_id": 54},
+    {"id": 12, "name": "Gestur Rumah", "image_path": "assets/images/gestures/place_rumah.png", "description": "Kedua tangan membentuk segitiga di atas kepala seperti atap.", "hand_type": "two_hand", "vocabulary_id": 57},
+    {"id": 13, "name": "Gestur Senang", "image_path": "assets/images/gestures/emotion_senang.png", "description": "Kedua telapak tangan di depan dada, putar bergantian ke atas.", "hand_type": "two_hand", "vocabulary_id": 47},
+    {"id": 14, "name": "Gestur Sedih", "image_path": "assets/images/gestures/emotion_sedih.png", "description": "Jari-jari bergerak turun dari mata ke bawah seperti air mata.", "hand_type": "two_hand", "vocabulary_id": 48},
+    {"id": 15, "name": "Gestur Tolong", "image_path": "assets/images/gestures/emergency_tolong.png", "description": "Tangan terbuka menepuk dada kiri berulang kali.", "hand_type": "one_hand", "vocabulary_id": 68},
+    {"id": 16, "name": "Gestur Cinta", "image_path": "assets/images/gestures/emotion_cinta.png", "description": "Kedua tangan menyilang di depan dada memeluk diri sendiri.", "hand_type": "two_hand", "vocabulary_id": 51},
+    {"id": 17, "name": "Gestur Sakit", "image_path": "assets/images/gestures/emergency_sakit.png", "description": "Telunjuk kedua tangan saling menunjuk dan bergerak maju-mundur.", "hand_type": "two_hand", "vocabulary_id": 70},
+    {"id": 18, "name": "Gestur Hari Ini", "image_path": "assets/images/gestures/time_hariini.png", "description": "Telunjuk kedua tangan menunjuk ke bawah bersamaan.", "hand_type": "two_hand", "vocabulary_id": 61},
+    {"id": 19, "name": "Gestur Apa", "image_path": "assets/images/gestures/question_apa.png", "description": "Kedua tangan terbuka, gerakkan ke kiri-kanan bergantian.", "hand_type": "two_hand", "vocabulary_id": 64},
+    {"id": 20, "name": "Gestur Bahaya", "image_path": "assets/images/gestures/emergency_bahaya.png", "description": "Kedua tangan terbuka menyilang di depan dada berulang kali.", "hand_type": "two_hand", "vocabulary_id": 69}
+  ],
+  "audio_data": [
+    {"vocabulary_id": 37, "file_path": "tts_generated", "duration_seconds": 0.8, "file_size_mb": 0.02},
+    {"vocabulary_id": 38, "file_path": "tts_generated", "duration_seconds": 1.5, "file_size_mb": 0.04},
+    {"vocabulary_id": 39, "file_path": "tts_generated", "duration_seconds": 1.2, "file_size_mb": 0.03},
+    {"vocabulary_id": 40, "file_path": "tts_generated", "duration_seconds": 0.7, "file_size_mb": 0.02},
+    {"vocabulary_id": 41, "file_path": "tts_generated", "duration_seconds": 0.9, "file_size_mb": 0.02},
+    {"vocabulary_id": 42, "file_path": "tts_generated", "duration_seconds": 0.6, "file_size_mb": 0.02},
+    {"vocabulary_id": 43, "file_path": "tts_generated", "duration_seconds": 0.5, "file_size_mb": 0.01},
+    {"vocabulary_id": 44, "file_path": "tts_generated", "duration_seconds": 0.7, "file_size_mb": 0.02},
+    {"vocabulary_id": 45, "file_path": "tts_generated", "duration_seconds": 0.6, "file_size_mb": 0.02},
+    {"vocabulary_id": 47, "file_path": "tts_generated", "duration_seconds": 0.8, "file_size_mb": 0.02},
+    {"vocabulary_id": 48, "file_path": "tts_generated", "duration_seconds": 0.7, "file_size_mb": 0.02},
+    {"vocabulary_id": 52, "file_path": "tts_generated", "duration_seconds": 0.6, "file_size_mb": 0.02},
+    {"vocabulary_id": 53, "file_path": "tts_generated", "duration_seconds": 0.7, "file_size_mb": 0.02},
+    {"vocabulary_id": 57, "file_path": "tts_generated", "duration_seconds": 0.7, "file_size_mb": 0.02},
+    {"vocabulary_id": 68, "file_path": "tts_generated", "duration_seconds": 0.8, "file_size_mb": 0.02},
+    {"vocabulary_id": 70, "file_path": "tts_generated", "duration_seconds": 0.6, "file_size_mb": 0.02}
+  ]
+}
